@@ -1,5 +1,3 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot Công ty luật Hoa Phượng
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://anhlaptrinh.vn/)
-
-
+Chương trình chatbot được tạo ra bởi luật sư Nguyễn Anh Vũ (HPL)
